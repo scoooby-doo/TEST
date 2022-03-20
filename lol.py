@@ -2,5 +2,5 @@ from re import A
 
 
 a = "dfsdgsdgdsg"
-
-print(a)
+b = "afsafasfasfa"
+print(a, b)
